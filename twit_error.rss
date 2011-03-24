@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <request>/statuses/user_timeline/7003692.rss</request>
+  <error>Rate limit exceeded. Clients may not make more than 150 requests per hour.</error>
+</hash>
